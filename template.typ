@@ -1,4 +1,4 @@
-// ── Résumé template ───────────────────────────────────────────────────────────
+// ── Resume template ───────────────────────────────────────────────────────────
 // Reusable styling + entry helpers. Usage:
 //
 //   #import "template.typ": *
