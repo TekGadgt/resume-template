@@ -1,6 +1,6 @@
 # Resume template (Typst)
 
-A clean, single-column résumé template for [Typst](https://typst.app), built for
+A clean, single-column resume template for [Typst](https://typst.app), built for
 readable output and **page-break-safe** entries. Styling and helpers live in
 `template.typ`; you write your content in `resume.typ`.
 

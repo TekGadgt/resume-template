@@ -1,4 +1,4 @@
-// Example résumé built on template.typ. Replace the content with your own.
+// Example resume built on template.typ. Replace the content with your own.
 // Build with:  typst compile resume.typ resume.pdf
 
 #import "template.typ": *
