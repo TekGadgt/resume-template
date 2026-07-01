@@ -4,7 +4,7 @@ A clean, single-column résumé template for [Typst](https://typst.app), built f
 readable output and **page-break-safe** entries. Styling and helpers live in
 `template.typ`; you write your content in `resume.typ`.
 
-![one file for styling, one for content](https://img.shields.io/badge/typst-template-blue)
+![one file for styling, one for content](https://img.shields.io/badge/typst-template-blue?style=flat-square)
 
 ## Features
 
