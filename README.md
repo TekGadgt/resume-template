@@ -27,8 +27,16 @@ readable output and **page-break-safe** entries. Styling and helpers live in
 
 ## Usage
 
-1. Copy `template.typ` and `resume.typ` into a folder.
-2. Edit `resume.typ` — replace the header and the example content.
+1. Fork this repo (so you have your own copy to keep), then clone your fork —
+   or just clone directly if you don't need it on GitHub:
+
+   ```sh
+   git clone https://github.com/<your-username>/resume-template.git
+   cd resume-template
+   ```
+
+2. Edit `resume.typ` — replace the header and the example content with your own.
+   Leave `template.typ` as-is unless you want to restyle.
 3. Build:
 
    ```sh
