@@ -1,4 +1,4 @@
-# Résumé template (Typst)
+# Resume template (Typst)
 
 A clean, single-column résumé template for [Typst](https://typst.app), built for
 readable output and **page-break-safe** entries. Styling and helpers live in
